@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @seongwonKang
 - 👀 I’m interested in UAM System
 - 🌱 I’m currently learning  Java and aerodynamics
-- 💞️ I’m looking to collaborate on UI.UX
+- 💞️ I’m looking to collaborate on design
 - 📫 How to reach me insta @kang.ssss
 
 <!---
